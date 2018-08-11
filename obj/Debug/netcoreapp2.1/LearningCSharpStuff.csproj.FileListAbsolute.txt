@@ -1,0 +1,14 @@
+D:\CSharpStuff\LearningCSharpStuff\bin\Debug\netcoreapp2.1\LearningCSharpStuff.deps.json
+D:\CSharpStuff\LearningCSharpStuff\bin\Debug\netcoreapp2.1\LearningCSharpStuff.runtimeconfig.json
+D:\CSharpStuff\LearningCSharpStuff\bin\Debug\netcoreapp2.1\LearningCSharpStuff.runtimeconfig.dev.json
+D:\CSharpStuff\LearningCSharpStuff\bin\Debug\netcoreapp2.1\LearningCSharpStuff.dll
+D:\CSharpStuff\LearningCSharpStuff\bin\Debug\netcoreapp2.1\LearningCSharpStuff.pdb
+D:\CSharpStuff\LearningCSharpStuff\obj\Debug\netcoreapp2.1\LearningCSharpStuff.csprojAssemblyReference.cache
+D:\CSharpStuff\LearningCSharpStuff\obj\Debug\netcoreapp2.1\LearningCSharpStuff.csproj.CoreCompileInputs.cache
+D:\CSharpStuff\LearningCSharpStuff\obj\Debug\netcoreapp2.1\LearningCSharpStuff.RazorAssemblyInfo.cache
+D:\CSharpStuff\LearningCSharpStuff\obj\Debug\netcoreapp2.1\LearningCSharpStuff.RazorAssemblyInfo.cs
+D:\CSharpStuff\LearningCSharpStuff\obj\Debug\netcoreapp2.1\LearningCSharpStuff.AssemblyInfoInputs.cache
+D:\CSharpStuff\LearningCSharpStuff\obj\Debug\netcoreapp2.1\LearningCSharpStuff.AssemblyInfo.cs
+D:\CSharpStuff\LearningCSharpStuff\obj\Debug\netcoreapp2.1\LearningCSharpStuff.RazorTargetAssemblyInfo.cache
+D:\CSharpStuff\LearningCSharpStuff\obj\Debug\netcoreapp2.1\LearningCSharpStuff.dll
+D:\CSharpStuff\LearningCSharpStuff\obj\Debug\netcoreapp2.1\LearningCSharpStuff.pdb
